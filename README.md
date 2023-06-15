@@ -4,7 +4,6 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shraddha16092002&label=Profile%20views&color=0e75b6&style=flat" alt="shraddha16092002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shraddha16092002" alt="shraddha16092002" /></a> </p>
 
 - 🌱 I’m currently learning **MERN stack**
 
