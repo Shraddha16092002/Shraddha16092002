@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shradhayeole2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1V5Clzljz5KqevZ6R3g_wkQUvE7X0R-8Z/view?usp=drive_link](https://drive.google.com/file/d/1V5Clzljz5KqevZ6R3g_wkQUvE7X0R-8Z/view?usp=drive_link)
+- 📄 Get my resume [https://drive.google.com/file/d/1k-uRWSvg2-12Aw-IqzQgLJAuIwE9KG95/view?usp=sharing](https://drive.google.com/file/d/1k-uRWSvg2-12Aw-IqzQgLJAuIwE9KG95/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
